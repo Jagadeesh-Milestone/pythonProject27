@@ -7,7 +7,6 @@ for i in l:
         print('odd number',i)
 
 #using comprehension:
-
 x=[i for i in l if i%2==1]
 print(x)
 y=[i for i in l if i%2==0]
