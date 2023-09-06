@@ -1,5 +1,4 @@
 #class method:
-
 class milestone:
     myname='jagadeesh'
     friendname='hari'
