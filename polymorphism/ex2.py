@@ -14,7 +14,7 @@ class ostrich(bird):
 b=bird()
 b.fly()
 o=ostrich()
-o.fly()   #9502711782
+o.fly()
 b.fly()
 
 p=parrot()
